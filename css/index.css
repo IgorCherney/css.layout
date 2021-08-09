@@ -78,7 +78,7 @@ main.products > article > .buttons {
     justify-content: space-around;
     padding-top: 5px;
 }
-@media (min-width:600px) {
+@media (min-width: 500px) {
     main .products {
         display: grid;
         grid-template-columns: 1fr 1fr;
